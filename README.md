@@ -7,10 +7,10 @@
 
 * Link Python to the database by creating a SQLAlchemy session.
 
-* **Important:** Don't forget to close out your session at the end of your notebook.
+
 #### Precipitation Analysis
 
-To perform an analysis of precipitation in the area, do the following:
+
 
 * Find the most recent date in the dataset.
 
@@ -30,7 +30,7 @@ To perform an analysis of precipitation in the area, do the following:
 
 #### Station Analysis
 
-To perform an analysis of stations in the area, do the following:
+
 
 * Design a query to calculate the total number of stations in the dataset.
 
@@ -42,7 +42,7 @@ To perform an analysis of stations in the area, do the following:
 
     * Using the most active station id, calculate the lowest, highest, and average temperatures.
 
-    * **Hint:** You will need to use functions such as `func.min`, `func.max`, `func.avg`, and `func.count` in your queries.
+   
 
 * Design a query to retrieve the previous 12 months of temperature observation data (TOBS).
 
@@ -59,9 +59,9 @@ To perform an analysis of stations in the area, do the following:
 - - -
 ### Part 2: Design Your Climate App
 
-Now that you have completed your initial analysis, you’ll design a Flask API based on the queries that you have just developed.
 
-Use Flask to create your routes, as follows:
+
+Use Flask to create your routes
 
 * `/`
 
