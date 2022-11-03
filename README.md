@@ -1,6 +1,6 @@
 # Sqlalchemy-challennge
 ---------------------------------------------------
-For this Repo I perform a precipitation analysis and then a station analysis.
+For this Repository I performed a precipitation analysis and then a station analysis.
 
 #### Precipitation Analysis
 
